@@ -102,6 +102,12 @@
 *  Si utilizo un framework como Boostrap CSS para qué el apartado gráfico se vea más profesional, ¿en qué capa se haría su uso?
     * Bootstrap CSS se utilizaría principalmente en la capa de presentación o interfaz de usuario (UI). Esto significa que se emplearía en el desarrollo del aspecto visual y la experiencia del usuario en una aplicación web. La capa de presentación se encarga de cómo se ve y se siente la aplicación, y Bootstrap proporciona un conjunto de herramientas y estilos predefinidos que facilitan la creación de interfaces de usuario atractivas y responsivas. Utilizando Bootstrap CSS, los desarrolladores pueden diseñar rápidamente diseños modernos y consistentes, incluyendo elementos como botones, barras de navegación, formularios, y mucho más, lo que ayuda a mejorar la apariencia y la usabilidad de la aplicación web.
 
+# __Parte IV - APLICACIÓN MVC JUEGO__
+ * ¿Qué pasa si abro el sitio de juegos en dos navegadores difententes?
+    * Se comparte el estado actual del juego independientemente si se abre en un nuevo navegador.
+
+* Si quisiera qué a cada jugador le aparecieran independientemente sus respectivos saldos. ¿Qué habría que hacer?
+    * Ambos jugadores deberían estar corriendo el juego de forma independiemte.
 
 
 
