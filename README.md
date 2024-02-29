@@ -31,6 +31,17 @@
 
 ![helloWord](https://github.com/JuanDavidGarciaPulido/CVDS_LAB5_2024-1/assets/90209924/dcd8900f-9e52-4f21-88d5-0976ff221fbe)
 
+## Parte III - __APLICACIÓN MVC PARA CONSUMO DE SERVICIO RESTful__
+
+![usuarios](https://github.com/JuanDavidGarciaPulido/CVDS_LAB5_2024-1/assets/90209924/34f72dde-2d5a-4b04-8470-1b1f64b48e18)
+
+* ¿Qué es RESTful?
+    * RESTful es una forma de construir servicios web que sigue las reglas del internet. Se basa en direcciones web y acciones comunes como ver, agregar, actualizar y eliminar cosas. Cada vez que se hace una solicitud, se incluye toda la información necesaria, lo que ayuda a que el sistema sea más flexible y fácil de manejar. También hace que sea más sencillo para los computadores comunicarse entre sí, lo que lo convierte en una opción popular para construir aplicaciones web.
+
+*  Si utilizo un framework como Boostrap CSS para qué el apartado gráfico se vea más profesional, ¿en qué capa se haría su uso?
+    * Bootstrap CSS se utilizaría principalmente en la capa de presentación o interfaz de usuario (UI). Esto significa que se emplearía en el desarrollo del aspecto visual y la experiencia del usuario en una aplicación web. La capa de presentación se encarga de cómo se ve y se siente la aplicación, y Bootstrap proporciona un conjunto de herramientas y estilos predefinidos que facilitan la creación de interfaces de usuario atractivas y responsivas. Utilizando Bootstrap CSS, los desarrolladores pueden diseñar rápidamente diseños modernos y consistentes, incluyendo elementos como botones, barras de navegación, formularios, y mucho más, lo que ayuda a mejorar la apariencia y la usabilidad de la aplicación web.
+
+
 
 
 
