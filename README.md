@@ -29,6 +29,7 @@
     * **`@Autowired`**: Se utiliza para la inyección de dependencias, en este caso, para inyectar un objeto **`GreetingService`** en **`GreetingController`**.
     * **`@SpringBootTest.WebEnvironment`**: Indica el entorno web para pruebas de integración. **`WebEnvironment.RANDOM_PORT`** inicia la aplicación en un puerto aleatorio para pruebas.
 
+![helloWord](https://github.com/JuanDavidGarciaPulido/CVDS_LAB5_2024-1/assets/90209924/dcd8900f-9e52-4f21-88d5-0976ff221fbe)
 
 
 
